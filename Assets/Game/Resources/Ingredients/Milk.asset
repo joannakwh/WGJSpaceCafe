@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67eecf79f42b8f546940a8f272318c64, type: 3}
+  m_Name: Milk
+  m_EditorClassIdentifier: 
+  name: Milk
+  displaySprite: {fileID: -4403036172738763700, guid: cb3a56e86b2bb9c4991509ad74cde6ad,
+    type: 3}
+  inCupSprite: {fileID: -3026403903459387518, guid: 6092738183c668a4d924383acaf9eb5f,
+    type: 3}

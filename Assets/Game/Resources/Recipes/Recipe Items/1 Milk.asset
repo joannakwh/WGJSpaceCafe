@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed426a6318d8ce94c9896d256ced5b62, type: 3}
+  m_Name: 1 Milk
+  m_EditorClassIdentifier: 
+  ingr: {fileID: 11400000, guid: c64e36f80fea01d41be87c7f30aaa91c, type: 2}
+  qty: 1
